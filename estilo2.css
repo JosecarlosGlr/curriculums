@@ -1,0 +1,44 @@
+h1 {
+    color: green;
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: right;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+}
+h2{
+    background-color: blue;
+    color: yellow;
+    font-family:'Courier New', Courier, monospace;
+}
+h3{
+    color: green;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+table,th,td{
+    background-color: orange;
+    border: 2px solid red;
+}
+.importante{
+    background-color: lightyellow;
+    color: pink;
+    font-size: 15pt;
+    font-weight: bold;
+    font-style: italic;
+}
+.titulo-grande{
+    font-weight: bold;
+    background-color: yellow;
+    font-size: 20px;
+    color: orange;
+}
+#retrato{
+    width: 30%;
+}
