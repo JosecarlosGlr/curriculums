@@ -46,3 +46,20 @@ a {
 #retrato{
     width: 200; height: 300; border: 2px solid blue;
 }
+a:link{
+    color: purple;
+    font-size: 2em;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color: red;
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+}
+a:active{
+    color: green;
+    font-weight: bold;
+}
